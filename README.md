@@ -1,6 +1,6 @@
 babytalk (tampermonkey script)
 
-a babytalk filter for the text on https://baby fur.me/
+a babytalk filter for the text on https://babyfur.me/
 
 installation:
 
